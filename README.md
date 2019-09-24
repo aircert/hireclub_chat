@@ -18,11 +18,10 @@ The goal was to get a functional 1-1 chat joinable upon session start.
 run `rspec` or `guard`
 
 ### Manual Testing
-`rails s`
-Visit localhost:3000 - normal browser
-Visit localhost:3000 - secondary browser
-
-Start Chatting.
+- `rails s`
+- Visit localhost:3000 (normal browser)
+- Visit localhost:3000 (secondary browser)
+- Start Chatting.
 
 
 
