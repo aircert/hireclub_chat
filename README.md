@@ -14,7 +14,7 @@
 8. Test where you think appropriate.
 9. Push to Heroku and github.
 
-I did not implement 2, so subsequently, 6 is not implemeneted.
+I did not implement 2, so subsequently, 6 is not implemeneted. Also, messages do not persist on page refresh.
 
 The goal was to get a functional 1-1 chat joinable upon session start.
 
